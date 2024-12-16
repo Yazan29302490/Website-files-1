@@ -1,0 +1,26 @@
+/* The Fonts */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+/* font-family: "Roboto", sans-serif; */
+
+/* English */
+
+
+/* The Colors */
+
+Color 1 - white
+
+Color 2 - black
+
+Color 3 - #282a38
+
+Color 4 - #1a1b20
+
+Color 5 - #0984e3
+
+Color 6 - transparent
+
+Color 7 - rgba(255, 255, 255, 0.5)
+
+Color 8 - rgba(0, 0, 0, 0.5)
